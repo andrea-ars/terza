@@ -1,2 +1,2 @@
 init forever
-ending
+ending now!
